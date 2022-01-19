@@ -1,0 +1,9 @@
+The game of Pig is a jeopardy dice game. The rules are very simple:
+
+- Two players take turns rolling a single, six-sided die.
+- The first player to score 100 or more wins.
+- If you roll a 2, 3, 4, 5, or 6, that number is added to your turn's score.
+- After rolling a 2, 3, 4, 5, or 6, you can choose to roll again or to hold.
+- If you hold, the points you have accumulated during your turn will be added to your game score.
+- If you roll again, you get the opportunity to add more points to your turn score.
+- However, if you ever roll a 1 (called the pig), you lose all the points in your current turn, and the other player gets to roll.
